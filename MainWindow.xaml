@@ -30,6 +30,14 @@
             </DataTemplate>
         </ListBox.ItemTemplate>
             </ListBox>
-        <TextBox Grid.Column="4" Grid.Row="0"  Text="{Binding Source = UserLogPass, Path= Password}"/>
+        <ListBox Grid.Column="4" Grid.Row="0"  ItemsSource="{Binding UserLogPass}" TextBlock.TextAlignment="Center">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="5">
+                        <TextBlock Text="{Binding Path = PasswordBind}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            </ListBox>
     </Grid>
 </Window>

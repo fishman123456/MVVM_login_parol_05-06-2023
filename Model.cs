@@ -10,8 +10,17 @@ namespace MVVM_login_parol_05_06_2023
     public class UserPassword : INotifyPropertyChanged
     {
         public int Id { get; set; } //  Id необходим для соханения его в бд
-        public string? Password { get; set; }
+        public string Password { get; set; }
         public string Username { get; set; }
+        public string PasswordBind
+        {
+            get { return Password; }
+            set
+            {
+                Password = value;
+                OnPropertyChanged("PasswordBind");// триггеим событие - вызываем обновление во всех view событие
+            }
+        }
         public string UsernameBind
         {
             get { return Username; }
@@ -44,7 +53,7 @@ namespace MVVM_login_parol_05_06_2023
 
         public void AssembleNewUserLoginPasswords() // стандартный набор собак
         {
-            AddUserLoginPassword(new UserPassword { Username = "Петр" });
+            AddUserLoginPassword(new UserPassword { Username = "Петр", Password ="0000" }) ;
             //AddDog(new Dog { DogName = "Волчья собака Сарлоса" });
             //AddDog(new Dog { DogName = "Шиба-ину" });
             //AddDog(new Dog { DogName = "Сибирский хаски" });
