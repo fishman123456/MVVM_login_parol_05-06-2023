@@ -30,6 +30,6 @@
             </DataTemplate>
         </ListBox.ItemTemplate>
             </ListBox>
-            <TextBox Grid.Column="4" Grid.Row="0" Text="{Binding Path = UsernameBind}"/>
+        <TextBox Grid.Column="4" Grid.Row="0"  Text="{Binding Source = UserLogPass, Path= Password}"/>
     </Grid>
 </Window>
