@@ -64,3 +64,5 @@ C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MVVM_login_parol_05-06-2023.pdb
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MVVM_login_parol_05-06-2023.genruntimeconfig.cache
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\ref\MVVM_login_parol_05-06-2023.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\Window1_Two_Textbox.g.cs
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\Window1_Two_Textbox.baml
