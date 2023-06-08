@@ -63,7 +63,7 @@ namespace MVVM_login_parol_05_06_2023
         {
             return this.db.UserLogPass.ToList<UserPassword>();
         }
-
+        // сравниваем значение в текстбоксе
         public void AddUserLoginPassword(UserPassword UserLogPass) // добавить
         {
             this.db.UserLogPass.Add(UserLogPass);
