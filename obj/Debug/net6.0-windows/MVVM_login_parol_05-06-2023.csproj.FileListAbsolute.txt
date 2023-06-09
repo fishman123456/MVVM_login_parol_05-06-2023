@@ -3,6 +3,8 @@ C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\MVVM_login_parol_05-06-2023.runtimeconfig.json
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\MVVM_login_parol_05-06-2023.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\MVVM_login_parol_05-06-2023.pdb
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\EntityFramework.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -21,8 +23,14 @@ C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
@@ -46,6 +54,12 @@ C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MVVM_login_parol_05-06-2023.csproj.AssemblyReference.cache
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MainWindow.g.cs
@@ -64,5 +78,3 @@ C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MVVM_login_parol_05-06-2023.pdb
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MVVM_login_parol_05-06-2023.genruntimeconfig.cache
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\ref\MVVM_login_parol_05-06-2023.dll
-C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\Window1_Two_Textbox.g.cs
-C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\Window1_Two_Textbox.baml
