@@ -63,10 +63,14 @@ C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MVVM_login_parol_05-06-2023.csproj.AssemblyReference.cache
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MainWindow1.g.cs
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\Window1.g.cs
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\App.g.cs
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MVVM_login_parol_05-06-2023_MarkupCompile.cache
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MVVM_login_parol_05-06-2023_MarkupCompile.lref
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MainWindow1.baml
+C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\Window1.baml
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MVVM_login_parol_05-06-2023.g.resources
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MVVM_login_parol_05-06-2023.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\obj\Debug\net6.0-windows\MVVM_login_parol_05-06-2023.AssemblyInfoInputs.cache

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Fishman_1\Documents\GitHub\MVVM_login_parol_05-06-2023\App.xaml
-11407045341
+3-1288412655
 
-7-575278965
+10606140324
 217-1332925090
-MainWindow.xaml;
+MainWindow.xaml;MainWindow1.xaml;Window1.xaml;
 
-False
+True
 

@@ -15,4 +15,34 @@
     <PackageReference Include="System.Data.SQLite" Version="1.0.117" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="SecondBasic\MainWindow1.xaml.cs">
+      <CustomToolNamespace>MVVM_login_parol_05_06_2023</CustomToolNamespace>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Update="SecondBasic\User.cs">
+      <CustomToolNamespace>MVVM_login_parol_05_06_2023</CustomToolNamespace>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Update="SecondBasic\Window1.xaml.cs">
+      <CustomToolNamespace>MVVM_login_parol_05_06_2023</CustomToolNamespace>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="SecondBasic\MainWindow1.xaml">
+      <CustomToolNamespace>MVVM_login_parol_05_06_2023</CustomToolNamespace>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Page>
+    <Page Update="SecondBasic\Window1.xaml">
+      <CustomToolNamespace>MVVM_login_parol_05_06_2023</CustomToolNamespace>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Page>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="MVVM_Log_pass\" />
+  </ItemGroup>
+
 </Project>
