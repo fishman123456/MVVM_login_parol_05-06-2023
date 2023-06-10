@@ -92,6 +92,11 @@ namespace MVVM_login_parol_05_06_2023
             db.Users.Remove(user);
             db.SaveChanges();
         }
+
+        private void Close_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
     }
 }
 

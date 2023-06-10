@@ -35,5 +35,10 @@ namespace MVVM_login_parol_05_06_2023
         {
             DialogResult = true;
         }
+
+        private void CheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Выбор за вами");
+        }
     }
 }

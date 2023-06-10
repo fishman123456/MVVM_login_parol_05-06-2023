@@ -16,19 +16,17 @@
                 <DataTemplate>
                     <StackPanel>
                         <TextBlock Text="{Binding Name}" FontSize="16"/>
-                        
                         <TextBlock Text="{Binding Age}" FontSize="13" />
-                        <TextBlock Text="*************"/>
+                        <TextBlock Text="*************" Width="100"/>
                     </StackPanel>
-                   
                 </DataTemplate>
             </ListBox.ItemTemplate>
         </ListBox>
-        
         <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
             <Button Content="Добавить" Margin="10" Click="Add_Click" />
             <Button Content="Изменить" Margin="10" Click="Edit_Click"  />
             <Button Content="Удалить" Margin="10" Click="Delete_Click"  />
+            <Button Content="Закрыть" Margin="10" Click="Close_Click"  />
         </StackPanel>
     </Grid>
 </Window>

@@ -32,7 +32,11 @@
         <TextBlock Text="Имя" />
         <TextBlock Text="Возраст" Grid.Row="1" />
         
-        <TextBox Text="{Binding Name}" Grid.Column="1" />
+       
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="1">
+            <TextBox Text="{Binding Name}" Grid.Column="1" Width="200" />
+            <CheckBox IsChecked="False"  VerticalAlignment="Center" Width="100" Checked="CheckBox_Checked"/>
+        </StackPanel>
         <TextBox Text="{Binding Age}" Grid.Column="1" Grid.Row="1" />
         
         <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Grid.Row="3" Grid.Column="1">
